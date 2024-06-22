@@ -1,1 +1,1 @@
-HOLA;
+let Saludo = "hola";
